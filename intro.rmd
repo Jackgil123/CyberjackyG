@@ -1,1 +1,1 @@
-# This is a folder where I will keep all of my data science projects.
+# This is a folder where I will keep all of my data science projects
