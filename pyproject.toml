@@ -1,0 +1,21 @@
+[project]
+name = "cyberjackyg"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Jackgil123",email = "1jackgilchrist@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pandas (>=2.3.3,<3.0.0)",
+    "numpy (>=2.4.0,<3.0.0)",
+    "ipykernel (>=7.1.0,<8.0.0)",
+    "matplotlib (>=3.10.8,<4.0.0)",
+    "statsmodels (>=0.14.6,<0.15.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
