@@ -12,7 +12,8 @@ dependencies = [
     "numpy (>=2.4.0,<3.0.0)",
     "ipykernel (>=7.1.0,<8.0.0)",
     "matplotlib (>=3.10.8,<4.0.0)",
-    "statsmodels (>=0.14.6,<0.15.0)"
+    "statsmodels (>=0.14.6,<0.15.0)",
+    "typer (>=0.21.0,<0.22.0)"
 ]
 
 
